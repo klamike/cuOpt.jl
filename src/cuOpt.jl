@@ -62,6 +62,8 @@ include("gen/libcuopt.jl")
 include("batch_api.jl")
 include("MOI_wrapper.jl")
 
+function BatchOptimizer end
+
 import PrecompileTools
 
 function _precompile()
