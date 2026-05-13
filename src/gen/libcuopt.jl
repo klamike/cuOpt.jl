@@ -1032,6 +1032,8 @@ const CUOPT_MIP_BATCH_PDLP_STRONG_BRANCHING = "mip_batch_pdlp_strong_branching"
 
 const CUOPT_MIP_BATCH_PDLP_RELIABILITY_BRANCHING = "mip_batch_pdlp_reliability_branching"
 
+const CUOPT_MIP_BATCH_BRANCH_SOLVER = "mip_batch_branch_solver"
+
 const CUOPT_MIP_STRONG_BRANCHING_SIMPLEX_ITERATION_LIMIT = "mip_strong_branching_simplex_iteration_limit"
 
 const CUOPT_SOLUTION_FILE = "solution_file"
